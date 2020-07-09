@@ -1,6 +1,6 @@
-## the first function, makeCacheMatrix, creates a special "matrix" object that 
+## the first function, makeCacheMatrix, creates a special matrix object and 
 ## can cache its inverse. The second function, cacheSolve, computes the inverse 
-## of the special "matrix" returned by makeCacheMatrix. If the inverse has 
+## of the special matrix returned by makeCacheMatrix. If the inverse has 
 ## already been calculated and the matrix has not changed, then cacheSolve
 ## retrieves the inverse from the cache
 
